@@ -1,6 +1,6 @@
 module github.com/zarishsphere/zarish-support
 
-go 1.25.4
+go 1.23.0
 
 require gorm.io/gorm v1.31.1
 
